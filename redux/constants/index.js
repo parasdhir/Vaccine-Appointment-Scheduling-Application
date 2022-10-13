@@ -1,0 +1,18 @@
+
+// appointment page
+export const USER_LOCATION = 'USER_LOCATION'
+export const USER_VACCINE_TYPE = 'USER_VACCINE_TYPE'
+export const USER_AP_DATE = 'USER_AP_DATE'
+export const USER_NEARBY_LOCATION = 'USER_NEARBY_LOCATION'
+export const USER_AP_TIME = 'USER_AP_TIME'
+
+
+// user page
+
+export const ALL_LOCATIONS = 'ALL_LOCATIONS'
+export const ALL_NEARBY_LOCATIONS = 'ALL_NEARBY_LOCATIONS'
+export const ALL_VACCINES = 'ALL_VACCINES'
+export const ALL_APPOINTMENTS = 'ALL_APPOINTMENTS'
+export const USERINFO = 'USERINFO'
+
+export const GETALLDATESETTINGS ='GETALLDATESETTINGS'
